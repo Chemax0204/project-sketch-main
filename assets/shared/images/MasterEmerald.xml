@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="MasterEmerald.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GemBop0000" x="0" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0001" x="0" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0002" x="1380" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0003" x="1380" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0004" x="2760" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0005" x="2760" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0006" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0007" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0008" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0009" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0010" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0011" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0012" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0013" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemBop0014" x="4140" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0000" x="5520" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0001" x="5520" y="0" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0002" x="0" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0003" x="0" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0004" x="1380" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0005" x="1380" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0006" x="2760" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0007" x="2760" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0008" x="4140" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0009" x="4140" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0010" x="5520" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0011" x="5520" y="1000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0012" x="0" y="2000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0013" x="0" y="2000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0014" x="1380" y="2000" width="1380" height="1000"/>
+	<SubTexture name="GemTheyAppear0015" x="1380" y="2000" width="1380" height="1000"/>
+</TextureAtlas>

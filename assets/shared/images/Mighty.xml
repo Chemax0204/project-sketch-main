@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Mighty.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Mighty0000" x="0" y="0" width="237" height="338" frameX="-1" frameY="-18" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0001" x="0" y="0" width="237" height="338" frameX="-1" frameY="-18" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0002" x="237" y="0" width="238" height="345" frameX="0" frameY="-11" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0003" x="237" y="0" width="238" height="345" frameX="0" frameY="-11" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0004" x="475" y="0" width="232" height="356" frameX="-6" frameY="0" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0005" x="475" y="0" width="232" height="356" frameX="-6" frameY="0" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0006" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0007" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0008" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0009" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0010" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0011" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0012" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0013" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty0014" x="707" y="0" width="224" height="354" frameX="-14" frameY="-2" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty Blinded0000" x="707" y="0" width="224" height="354" frameX="-5" frameY="-5" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty Blinded0001" x="707" y="0" width="224" height="354" frameX="-5" frameY="-5" frameWidth="238" frameHeight="356"/>
+	<SubTexture name="Mighty Blinded0002" x="0" y="356" width="228" height="353" frameX="-1" frameY="-6" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0003" x="0" y="356" width="228" height="353" frameX="-1" frameY="-6" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0004" x="228" y="356" width="229" height="359" frameX="0" frameY="0" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0005" x="228" y="356" width="229" height="359" frameX="0" frameY="0" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0006" x="457" y="356" width="219" height="353" frameX="-10" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0007" x="457" y="356" width="219" height="353" frameX="-10" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0008" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0009" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0010" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0011" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0012" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0013" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+	<SubTexture name="Mighty Blinded0014" x="676" y="356" width="213" height="353" frameX="-17" frameY="-5" frameWidth="230" frameHeight="359"/>
+</TextureAtlas>

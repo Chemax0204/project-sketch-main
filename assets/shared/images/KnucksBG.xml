@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="KnucksBG.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Knuckles0000" x="0" y="0" width="165" height="226" frameX="0" frameY="-9" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0001" x="0" y="0" width="165" height="226" frameX="0" frameY="-9" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0002" x="165" y="0" width="166" height="228" frameX="0" frameY="-6" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0003" x="165" y="0" width="166" height="228" frameX="0" frameY="-6" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0004" x="331" y="0" width="166" height="229" frameX="0" frameY="-5" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0005" x="331" y="0" width="166" height="229" frameX="0" frameY="-5" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0006" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0007" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0008" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0009" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0010" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0011" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0012" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0013" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+	<SubTexture name="Knuckles0014" x="0" y="229" width="160" height="234" frameX="0" frameY="0" frameWidth="166" frameHeight="235"/>
+</TextureAtlas>

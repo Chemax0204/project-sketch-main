@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Ray.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ray0000" x="0" y="0" width="263" height="296" frameX="0" frameY="-7" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0001" x="0" y="0" width="263" height="296" frameX="0" frameY="-7" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0002" x="263" y="0" width="255" height="296" frameX="-3" frameY="-7" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0003" x="263" y="0" width="255" height="296" frameX="-3" frameY="-7" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0004" x="518" y="0" width="247" height="298" frameX="-9" frameY="-5" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0005" x="518" y="0" width="247" height="298" frameX="-9" frameY="-5" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0006" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0007" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0008" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0009" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0010" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0011" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0012" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0013" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray0014" x="765" y="0" width="232" height="303" frameX="-23" frameY="0" frameWidth="263" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0000" x="0" y="303" width="232" height="303" frameX="-26" frameY="0" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0001" x="0" y="303" width="232" height="303" frameX="-26" frameY="0" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0002" x="232" y="303" width="237" height="297" frameX="-21" frameY="-6" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0003" x="232" y="303" width="237" height="297" frameX="-21" frameY="-6" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0004" x="469" y="303" width="220" height="298" frameX="-17" frameY="-5" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0005" x="469" y="303" width="220" height="298" frameX="-17" frameY="-5" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0006" x="689" y="303" width="225" height="303" frameX="-11" frameY="0" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0007" x="689" y="303" width="225" height="303" frameX="-11" frameY="0" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0008" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0009" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0010" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0011" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0012" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0013" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+	<SubTexture name="Ray Blinded0014" x="0" y="606" width="236" height="302" frameX="0" frameY="-1" frameWidth="258" frameHeight="303"/>
+</TextureAtlas>

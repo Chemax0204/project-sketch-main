@@ -1,0 +1,40 @@
+{
+	"storyName": "Welcome to Sketch Hills",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"funky-hill-zone",
+			"sketcher",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"knucks",
+			"sketchidna",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 1"
+}

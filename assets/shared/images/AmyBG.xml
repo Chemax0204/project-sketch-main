@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="AmyBG.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Amy0000" x="0" y="0" width="122" height="218" frameX="0" frameY="-4" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0001" x="0" y="0" width="122" height="218" frameX="0" frameY="-4" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0002" x="122" y="0" width="122" height="221" frameX="-1" frameY="-1" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0003" x="122" y="0" width="122" height="221" frameX="-1" frameY="-1" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0004" x="244" y="0" width="119" height="222" frameX="-3" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0005" x="244" y="0" width="119" height="222" frameX="-3" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0006" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0007" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0008" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0009" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0010" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0011" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0012" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0013" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0014" x="363" y="0" width="117" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0015" x="0" y="222" width="115" height="218" frameX="0" frameY="-4" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0016" x="0" y="222" width="115" height="218" frameX="0" frameY="-4" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0017" x="115" y="222" width="115" height="221" frameX="-1" frameY="-1" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0018" x="115" y="222" width="115" height="221" frameX="-1" frameY="-1" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0019" x="230" y="222" width="115" height="222" frameX="-3" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0020" x="230" y="222" width="115" height="222" frameX="-3" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0021" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0022" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0023" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0024" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0025" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0026" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0027" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0028" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+	<SubTexture name="Amy0029" x="345" y="222" width="115" height="222" frameX="-5" frameY="0" frameWidth="123" frameHeight="222"/>
+</TextureAtlas>
